@@ -6,54 +6,19 @@ namespace PrepChallengesG
     {
         static void Main(string[] args)
         {
-            PrepChallenge1();
-        }
-
-        static void PrepChallenge1()
-        {
-            Console.WriteLine("Code Challenge 1");
-            int[] nums = new int[5];
-            try
+            do
             {
-                Console.WriteLine("Choose some numbers from 1-10 bwoi.");
-                for (int i = 0; i < nums.Length; i++)
-                {
-                    Console.Write($"Number {i + 1}: ");
-                    string result = Console.ReadLine();
-                    bool defValid = int.TryParse(result, out int number);
-                    nums[i] = defValid && number >= 1 && number <= 10 ? number : throw new ArgumentException("You don't have the juice brother, try again.");
-                }
+                int Year = 0;
+                Console.WriteLine("Pick a Year, any year!");
+                Year = int.Parse(Console.ReadLine());
+                string message = (Year % 4 == 0 && (Year % 100 != 0 || Year % 400 == 0)) ? "It's a leap year babyy" : "Oh you didn't know? You might wanna call somebody.";
+                Console.WriteLine(message);
 
-                Console.WriteLine("\nEntered Numbers");
-                foreach (int number in nums)
-                {
-                    Console.Write(number + " ");
-                }
 
-                Console.WriteLine("\n\nSelect a number from the selection:");
-                string selectionInput = Console.ReadLine();
-                bool isValidSelection = int.TryParse(selectionInput, out int selectedNumber);
+            } while (true);
 
-                string outputMessage = isValidSelection ? $"The score of {selectedNumber} is {CalculateScore(nums, selectedNumber)}." : "Invalid input. Please enter a valid number.";
-                Console.WriteLine(outputMessage);
+
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Invalid input. Please enter a valid integer.");
-            }
-
-            Console.ReadLine();
-        }
-
-        static int CalculateScore(int[] numbers, int selectedNumber)
-        {
-            int score = 0;
-            foreach (int number in numbers)
-            {
-                score += number == selectedNumber ? 1 : 0;
-            }
-            return score;
-        }
     }
 }
 
