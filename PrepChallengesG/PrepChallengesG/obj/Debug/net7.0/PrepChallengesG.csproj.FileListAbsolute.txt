@@ -1,0 +1,15 @@
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\bin\Debug\net7.0\PrepChallengesG.exe
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\bin\Debug\net7.0\PrepChallengesG.deps.json
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\bin\Debug\net7.0\PrepChallengesG.runtimeconfig.json
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\bin\Debug\net7.0\PrepChallengesG.dll
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\bin\Debug\net7.0\PrepChallengesG.pdb
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.csproj.AssemblyReference.cache
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.AssemblyInfoInputs.cache
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.AssemblyInfo.cs
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.dll
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\refint\PrepChallengesG.dll
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.pdb
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\PrepChallengesG.genruntimeconfig.cache
+C:\Users\jayde\Documents\GitHub\PrepChallenges\PrepChallengesG\PrepChallengesG\obj\Debug\net7.0\ref\PrepChallengesG.dll
